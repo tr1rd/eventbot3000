@@ -1,6 +1,6 @@
 # EventBot3000
 
-Ein Discord-Bot für FiveM/RP-Familien zur Verwaltung von Events, Auszahlungen, Rängen und Blacklists.
+Ein Discord-Bot für Grand-RP-Familien zur Verwaltung von Events, Auszahlungen, Rängen und Blacklists.
 
 > **Dokumentation:** [pawjobs.net/eventbot3000/docs](https://pawjobs.net/eventbot3000/docs)
 
