@@ -4,7 +4,6 @@ Ein Discord-Bot für Grand-RP-Familien zur Verwaltung von Events, Auszahlungen, 
 
 > **Dokumentation:** [pawjobs.net/eventbot3000/](https://pawjobs.net/#eventbot3000/)
 
----
 
 ## Features
 
@@ -15,7 +14,6 @@ Ein Discord-Bot für Grand-RP-Familien zur Verwaltung von Events, Auszahlungen, 
 - **Blacklists** - Fam-Blacklist (Ingame-ID) und Event-Blacklist (Discord-ID)
 - **Registrierung** - User anlegen mit Ingame-Name und ID
 
----
 
 ## Tech Stack
 
@@ -29,5 +27,6 @@ Ein Discord-Bot für Grand-RP-Familien zur Verwaltung von Events, Auszahlungen, 
 ## Lizenz
 
 MIT License - frei verwendbar und anpassbar.
+
 
 
