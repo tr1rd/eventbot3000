@@ -19,8 +19,8 @@ Ein Discord-Bot für FiveM/RP-Familien zur Verwaltung von Events, Auszahlungen, 
 
 ## Rang-System
 
-| Rang | Name | Berechtigung |
-|------|------|-------------|
+| Rang | Berechtigung |
+|------|--------------|
 | 0 | Nicht registriert |
 | 1–6 | Basis-Commands |
 | 7 |  `/register` |
