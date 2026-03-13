@@ -18,7 +18,8 @@ Ein Discord-Bot für Grand-RP-Familien zur Verwaltung von Events, Auszahlungen, 
 1. Besorge dir einen VPS oder besser einen geberell kostengünstiges, internetfähiges Gerät mit einem Linux Distro deiner Wahl
     - Specs: ungefähr 1-2 Gigabyte RAM und einen CPU Core
 2. Befolge ein Tutorial deiner Wahl darüber wie man einen Discord Bot deployed/erstellt
-3. Success!
+3. Verwende die Dateien in diesem Repo
+4. Success!
 
 ## Tech Stack
 
