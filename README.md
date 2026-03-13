@@ -32,7 +32,10 @@ Ein Discord-Bot für Grand-RP-Familien zur Verwaltung von Events, Auszahlungen, 
 
 ## Lizenz
 
-MIT License - frei verwendbar und anpassbar.
+MIT License, bedeutet: Bitte anpassen und erweitern wie du willst! 
+
+## Contact
+Fragen, Anregungen, usw. bitte an: bot@pawjobs.net
 
 
 
